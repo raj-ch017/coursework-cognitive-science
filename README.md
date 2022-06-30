@@ -55,6 +55,6 @@ This will serve as a blueprint to take courses according to the degree requireme
 # Resources
 The resources are divided into two categories:
 
-- MIT OpenCourseWare - Lectures provided in OCW
+- MIT OpenCourseWare - Lectures provided in [OCW](https://ocw.mit.edu/)
 
-- Courses - Resources gathered from online platforms 
+- Courses - Resources gathered from online platforms like [Coursera](https://www.coursera.org/) and [Edx](https://www.edx.org/)
