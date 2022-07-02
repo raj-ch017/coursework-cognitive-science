@@ -84,3 +84,11 @@ Courses | Tag | Prerequisites
 :-- | :--: | :--:
 [6.041 - Introduction to Probability](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/pages/syllabus/) | `CC` | Multi-variable Calculus|
 [6.042 - Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) | `CC` | Single-variable Calculus |
+
+#
+Courses | Tag | Prerequisites
+:-- | :--: | :--:
+[6.036 - Introduction to Machine Learning](https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/) | `CC` | none |
+[6.034 - Artifical Intelligence](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/pages/syllabus/) | `CC` | Python |
+[6.006 - Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | `CC` | [6.0001](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/syllabus/) and [6.042](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) |
+[6.002 - Circuits and Electronics](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/pages/syllabus/) | `CC` | Physics - II and Differential Equations |
