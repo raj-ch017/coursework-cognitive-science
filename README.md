@@ -58,3 +58,29 @@ The resources are divided into two categories:
 - MIT OpenCourseWare - Lectures provided in [OCW](https://ocw.mit.edu/)
 
 - Courses - Resources gathered from online platforms like [Coursera](https://www.coursera.org/) and [Edx](https://www.edx.org/)
+
+
+**Tags**
+`CC`
+`BCS`
+
+*CC refers to materials belonging to Computation and Cognition. BCS refers to materials belonging to Brain and Cognitive Sciences. Materials can overlap.*
+
+Courses | Tag | Prerequisites
+:-- | :--: | :--:
+[6.0001 - Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/syllabus/) | `CC` `BCS` | none | 
+[6.0002 - Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/pages/syllabus/) | `BCS` | 6.0001 |
+
+#
+Courses | Tag | Prerequisites
+:-- | :--: | :--:
+[9.00 - Introduction to Psychology](https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/pages/syllabus/) | `BCS` | none |
+[9.01 - Neuroscience and Behaviour](https://ocw.mit.edu/courses/9-01-neuroscience-and-behavior-fall-2003/) | `CC` `BCS` | none |
+[9.40 - Introduction to Neural Computation](https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/pages/syllabus/) | `BCS` `CC` | Physics - II, [6.0002](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/pages/syllabus/), [9.01](https://ocw.mit.edu/courses/9-01-neuroscience-and-behavior-fall-2003/) |
+[9.07 - Statistics for Brain and Cognitive Science](https://ocw.mit.edu/courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/pages/syllabus/) | `BCS` | [9.40](https://ocw.mit.edu/courses/9-40-introduction-to-neural-computation-spring-2018/pages/syllabus/) and MATLAB |
+
+#
+Courses | Tag | Prerequisites
+:-- | :--: | :--:
+[6.041 - Introduction to Probability](https://ocw.mit.edu/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/pages/syllabus/) | `CC` | Multi-variable Calculus|
+[6.042 - Mathematics for Computer Science](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) | `CC` | Single-variable Calculus |
