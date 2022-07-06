@@ -92,3 +92,18 @@ Courses | Tag | Prerequisites
 [6.034 - Artifical Intelligence](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/pages/syllabus/) | `CC` | Python |
 [6.006 - Introduction to Algorithms](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/) | `CC` | [6.0001](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/syllabus/) and [6.042](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/) |
 [6.002 - Circuits and Electronics](https://ocw.mit.edu/courses/6-002-circuits-and-electronics-spring-2007/pages/syllabus/) | `CC` | Physics - II and Differential Equations |
+
+## Course Resources
+List containing resources from online learning platforms.
+
+**Tags**
+`edx`
+`coursera`
+
+Courses | Tag |
+:-- | :--: |
+[Neurobiology of Everyday Life](https://www.coursera.org/learn/neurobiology) | `coursera`
+[Brain and Space](https://www.coursera.org/learn/human-brain) | `coursera`
+[Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience) | `coursera`
+[Fundamentals of Neuroscience](https://www.edx.org/xseries/harvardx-fundamentals-of-neuroscience?index=product&queryID=1162704784a73a00f5d07807c1b386c0&position=1) | `edx`
+[Behavioral Neuroscience Research](https://www.edx.org/professional-certificate/alaskax-behavioral-neuroscience-research?index=product&queryID=1162704784a73a00f5d07807c1b386c0&position=4) | `edx`
