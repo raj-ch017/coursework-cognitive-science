@@ -107,3 +107,16 @@ Courses | Tag |
 [Medical Neuroscience](https://www.coursera.org/learn/medical-neuroscience) | `coursera`
 [Fundamentals of Neuroscience](https://www.edx.org/xseries/harvardx-fundamentals-of-neuroscience?index=product&queryID=1162704784a73a00f5d07807c1b386c0&position=1) | `edx`
 [Behavioral Neuroscience Research](https://www.edx.org/professional-certificate/alaskax-behavioral-neuroscience-research?index=product&queryID=1162704784a73a00f5d07807c1b386c0&position=4) | `edx`
+[Synapses, Neuron and Brain](https://www.coursera.org/learn/synapses) | `coursera`
+[Bilingual Brain](https://www.coursera.org/learn/bilingual) | `coursera`
+[Visual Perception and Brain](https://www.coursera.org/learn/visual-perception) | `coursera`
+[Neurobiology of Sleep](https://www.coursera.org/learn/sleep) | `coursera`
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Task List**
+
+- [ ] : [6.0001 - Introduction to Computer Science and Programming in Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/pages/syllabus/)
+- [ ] : [6.0002 - Introduction to Computational Thinking and Data Science](https://ocw.mit.edu/courses/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/pages/syllabus/)
+- [ ] : [9.00 - Introduction to Psychology](https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/pages/syllabus/)
+- [ ] : [9.01 - Neuroscience and Behaviour](https://ocw.mit.edu/courses/9-01-neuroscience-and-behavior-fall-2003/)
